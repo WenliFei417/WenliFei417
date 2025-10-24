@@ -59,8 +59,8 @@ Implements user authentication, keyword & geo-based queries, and automated deplo
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wenli%20Fei-blue?logo=linkedin)](https://www.linkedin.com/in/wenlifei/)  
-📧 **wenlifeicode@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wenli%20Fei-blue?logo=linkedin)](https://www.linkedin.com/in/wenli-fei-523303356/)  
+📧 [wenlifeicode@gmail.com](mailto:wenlifeicode@gmail.com)
 
 ---
 
