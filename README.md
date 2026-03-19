@@ -8,10 +8,12 @@
 
 ## 🚀 About Me
 
-I recently made a career pivot from **Finance** to **Computer Science**, driven by a deep curiosity about how technology shapes the world around us.  
-Now pursuing my CS master’s degree at Syracuse University, I’m passionate about **building backend systems**, **exploring cloud infrastructure**, and learning how to design software that scales in the real world.
+👋 Hi, I’m Wenli Fei — a Computer Science graduate student at Syracuse University.
 
-I enjoy solving problems through code and constantly push myself to learn by doing — turning theoretical concepts into practical engineering skills.
+I’m passionate about backend and cloud development, and I enjoy building real-world systems from idea to deployment.
+
+🚀 Check out my portfolio:
+👉 https://wenli-portfolio.vercel.app/
 
 🧭 *Currently open to Summer 2026 Software Engineering Internships.*
 
