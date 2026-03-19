@@ -19,19 +19,19 @@ I enjoy solving problems through code and constantly push myself to learn by doi
 
 ## 🧩 Featured Projects
 
-### 🌍 [GeoConnect](https://github.com/WenliFei417/GeoConnect)
-A **location-based social posting platform** built with **Go**, **Elasticsearch**, and **Google Cloud App Engine**.  
-Supports JWT-based authentication, image uploads to GCS, and real-time geo-distance search.  
-🔗 **Live Demo:** [https://geoconnect-475801.uc.r.appspot.com](https://geoconnect-475801.uc.r.appspot.com)
+### 🎫 [EventHub](https://github.com/WenliFei417/EventHub)
+A **Spring Boot backend** for event search and booking, integrating the **Ticketmaster API** with **MySQL** and **AWS EC2**.  
+Implements user authentication, keyword & geo-based queries, and automated deployment on Tomcat.  
+🔗 **Live Demo:** [https://event-hub-frontend-ten.vercel.app/](https://event-hub-frontend-ten.vercel.app/)
 
 💬 Feel free to sign up and create a post on GeoConnect — every new user helps me test and improve the system!
 
 ---
 
-### 🎫 [EventHub](https://github.com/WenliFei417/EventHub)
-A **Spring Boot backend** for event search and booking, integrating the **Ticketmaster API** with **MySQL** and **AWS EC2**.  
-Implements user authentication, keyword & geo-based queries, and automated deployment on Tomcat.  
-🔗 **Live Demo:** [https://eventhub-fei.us-east-1.elasticbeanstalk.com](https://eventhub-fei.us-east-1.elasticbeanstalk.com)
+### 🌍 [GeoConnect](https://github.com/WenliFei417/GeoConnect)
+A **location-based social posting platform** built with **Go**, **Elasticsearch**, and **Google Cloud App Engine**.  
+Supports JWT-based authentication, image uploads to GCS, and real-time geo-distance search.  
+🔗 **Live Demo:** [https://geo-connect2.vercel.app/](https://geo-connect2.vercel.app/)
 
 ---
 
