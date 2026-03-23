@@ -24,6 +24,7 @@ I’m passionate about backend and cloud development, and I enjoy building real-
 ### 🎫 [EventHub](https://github.com/WenliFei417/EventHub)
 A **Spring Boot backend** for event search and booking, integrating the **Ticketmaster API** with **MySQL** and **AWS EC2**.  
 Implements user authentication, keyword & geo-based queries, and automated deployment on Tomcat.  
+
 🔗 **Live Demo:** [https://event-hub-frontend-ten.vercel.app/](https://event-hub-frontend-ten.vercel.app/)
 
 ---
@@ -31,6 +32,7 @@ Implements user authentication, keyword & geo-based queries, and automated deplo
 ### 🌍 [GeoConnect](https://github.com/WenliFei417/GeoConnect)
 A **location-based social posting platform** built with **Go**, **Elasticsearch**, and **Google Cloud App Engine**.  
 Supports JWT-based authentication, image uploads to GCS, and real-time geo-distance search.  
+
 🔗 **Live Demo:** [https://geo-connect2.vercel.app/](https://geo-connect2.vercel.app/)
 
 ---
@@ -38,6 +40,7 @@ Supports JWT-based authentication, image uploads to GCS, and real-time geo-dista
 ### 🍽️ [Dine With Wenli](https://github.com/WenliFei417/DineWithWenli)
 A **bilingual (Chinese/English) personal recipe platform** built with **React**, **GitHub API**, and **Vercel** using a serverless architecture.  
 Features category-based browsing, admin recipe management with image uploads, and GitHub-as-database for backend-free data persistence.
+
 🔗 **Live Demo:** [https://wenli-recipes.vercel.app/](https://wenli-recipes.vercel.app/)
 
 ---
