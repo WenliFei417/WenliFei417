@@ -26,14 +26,19 @@ A **Spring Boot backend** for event search and booking, integrating the **Ticket
 Implements user authentication, keyword & geo-based queries, and automated deployment on Tomcat.  
 🔗 **Live Demo:** [https://event-hub-frontend-ten.vercel.app/](https://event-hub-frontend-ten.vercel.app/)
 
-💬 Feel free to sign up and create a post on GeoConnect — every new user helps me test and improve the system!
-
 ---
 
 ### 🌍 [GeoConnect](https://github.com/WenliFei417/GeoConnect)
 A **location-based social posting platform** built with **Go**, **Elasticsearch**, and **Google Cloud App Engine**.  
 Supports JWT-based authentication, image uploads to GCS, and real-time geo-distance search.  
 🔗 **Live Demo:** [https://geo-connect2.vercel.app/](https://geo-connect2.vercel.app/)
+
+---
+
+### 🍽️ [Dine With Wenli](https://github.com/WenliFei417/DineWithWenli)
+A **bilingual (Chinese/English) personal recipe platform** built with **React**, **GitHub API**, and **Vercel** using a serverless architecture.  
+Features category-based browsing, admin recipe management with image uploads, and GitHub-as-database for backend-free data persistence.
+🔗 **Live Demo:** [https://wenli-recipes.vercel.app/](https://wenli-recipes.vercel.app/)
 
 ---
 
@@ -62,8 +67,4 @@ Supports JWT-based authentication, image uploads to GCS, and real-time geo-dista
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wenli%20Fei-blue?logo=linkedin)](https://www.linkedin.com/in/wenli-fei-523303356/)  
-📧 [wenlifeicode@gmail.com](mailto:wenlifeicode@gmail.com)
-
----
-
-⭐️ *“Built my way into computer science — one project at a time.”*
+📧 [<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cabdafa4a6a3acafa3a9a5aeaf8aada7aba3a6e4a9a5a7">[email&#160;prote
