@@ -21,6 +21,14 @@ I’m passionate about backend and cloud development, and I enjoy building real-
 
 ## 🧩 Featured Projects
 
+### 🍽️ [Dine With Wenli](https://github.com/WenliFei417/DineWithWenli)
+A **bilingual (Chinese/English) personal recipe platform** built with **React**, **OpenAI API**, **GitHub API**, and **Vercel** using a serverless architecture.  
+Supports category-based browsing, AI-powered recommendations, and full admin CRUD with image uploads, using GitHub as a backend-free database.
+
+🔗 **Live Demo:** [https://wenli-recipes.vercel.app/](https://wenli-recipes.vercel.app/)
+
+---
+
 ### 🎫 [EventHub](https://github.com/WenliFei417/EventHub)
 A **Spring Boot backend** for event search and booking, integrating the **Ticketmaster API** with **MySQL** and **AWS EC2**.  
 Implements user authentication, keyword & geo-based queries, and automated deployment on Tomcat.  
@@ -37,13 +45,6 @@ Supports JWT-based authentication, image uploads to GCS, and real-time geo-dista
 
 ---
 
-### 🍽️ [Dine With Wenli](https://github.com/WenliFei417/DineWithWenli)
-A **bilingual (Chinese/English) personal recipe platform** built with **React**, **GitHub API**, and **Vercel** using a serverless architecture.  
-Features category-based browsing, admin recipe management with image uploads, and GitHub-as-database for backend-free data persistence.
-
-🔗 **Live Demo:** [https://wenli-recipes.vercel.app/](https://wenli-recipes.vercel.app/)
-
----
 
 ## 🧠 Tech Stack
 
