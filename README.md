@@ -21,7 +21,7 @@ I’m passionate about backend and cloud development, and I enjoy building real-
 
 ## 🧩 Featured Projects
 
-### 🍽️ [ReimburseGuard](https://github.com/WenliFei417/reimburse-guard)
+### 💵 [ReimburseGuard](https://github.com/WenliFei417/reimburse-guard)
 A lightweight **PHP/Symfony web app** that validates healthcare reimbursement **CSV records** against five automated rules. 
 Features a rule-based **validation** engine with independent validator classes, **PHPUnit unit tests**, and a GitHub Actions **CI pipeline**.
 
