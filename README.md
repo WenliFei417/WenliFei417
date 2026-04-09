@@ -77,4 +77,4 @@ Supports JWT-based authentication, image uploads to GCS, and real-time geo-dista
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wenli%20Fei-blue?logo=linkedin)](https://www.linkedin.com/in/wenli-fei-523303356/)  
-📧 [<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cabdafa4a6a3acafa3a9a5aeaf8aada7aba3a6e4a9a5a7">[email&#160;prote
+📧 [wenlifeicode@gmail.com](mailto:wenlifeicode@gmail.com)
