@@ -21,6 +21,12 @@ I’m passionate about backend and cloud development, and I enjoy building real-
 
 ## 🧩 Featured Projects
 
+### 🍽️ [ReimburseGuard](https://github.com/WenliFei417/reimburse-guard)
+A lightweight **PHP/Symfony web app** that validates healthcare reimbursement **CSV records** against five automated rules. 
+Features a rule-based **validation** engine with independent validator classes, **PHPUnit unit tests**, and a GitHub Actions **CI pipeline**.
+
+---
+
 ### 🍽️ [Dine With Wenli](https://github.com/WenliFei417/DineWithWenli)
 A **bilingual (Chinese/English) personal recipe platform** built with **React**, **OpenAI API**, **GitHub API**, and **Vercel** using a serverless architecture.  
 Supports category-based browsing, AI-powered recommendations, and full admin CRUD with image uploads, using GitHub as a backend-free database.
