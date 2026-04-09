@@ -2,7 +2,7 @@
 <h3 align="center">CS @ Syracuse | Backend & Cloud Developer</h3>
 
 
-💡 *Former Economics major turned passionate software engineer — breaking into computer science with grit, curiosity, and a builder’s mindset.*
+💡 *Former Economics major turned passionate software engineer — breaking into computer science with curiosity and a builder’s mindset.*
 
 ---
 
@@ -17,7 +17,23 @@ I’m passionate about backend and cloud development, and I enjoy building real-
 
 🧭 *Currently open to Summer 2026 Software Engineering Internships.*
 
+
 ---
+
+## 🧠 Tech Stack
+
+### 🖥️ Languages  
+`Java` `Go` `PHP` `Python` `C++` `SQL` `JavaScript`
+
+### ⚙️ Frameworks & Tools  
+`Spring Boot` `Symfony` `Node.js` `Elasticsearch` `MySQL` `Redis` `JWT` `Docker`  
+`Google Cloud Platform (App Engine, GCS)` `AWS (EC2, S3, IAM)` `Tomcat`
+
+### 💻 Frontend  
+`HTML` `CSS` `JavaScript` `React`
+
+---
+
 
 ## 🧩 Featured Projects
 
@@ -48,21 +64,6 @@ A **location-based social posting platform** built with **Go**, **Elasticsearch*
 Supports JWT-based authentication, image uploads to GCS, and real-time geo-distance search.  
 
 🔗 **Live Demo:** [https://geo-connect2.vercel.app/](https://geo-connect2.vercel.app/)
-
----
-
-
-## 🧠 Tech Stack
-
-### 🖥️ Languages  
-`Java` `Go` `PHP` `Python` `C++` `SQL` `JavaScript`
-
-### ⚙️ Frameworks & Tools  
-`Spring Boot` `Symfony` `Elasticsearch` `MySQL` `Redis` `JWT` `Docker`  
-`Google Cloud Platform (App Engine, GCS)` `AWS (EC2, S3, IAM)` `Tomcat`
-
-### 💻 Frontend  
-`HTML` `CSS` `JavaScript` `React`
 
 ---
 
