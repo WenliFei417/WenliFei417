@@ -55,10 +55,10 @@ Supports JWT-based authentication, image uploads to GCS, and real-time geo-dista
 ## 🧠 Tech Stack
 
 ### 🖥️ Languages  
-`Java` `Go` `Python` `C++` `SQL` `JavaScript`
+`Java` `Go` `PHP` `Python` `C++` `SQL` `JavaScript`
 
 ### ⚙️ Frameworks & Tools  
-`Spring Boot` `Elasticsearch` `MySQL` `Redis` `JWT` `Docker`  
+`Spring Boot` `Symfony` `Elasticsearch` `MySQL` `Redis` `JWT` `Docker`  
 `Google Cloud Platform (App Engine, GCS)` `AWS (EC2, S3, IAM)` `Tomcat`
 
 ### 💻 Frontend  
@@ -66,13 +66,6 @@ Supports JWT-based authentication, image uploads to GCS, and real-time geo-dista
 
 ---
 
-## 🏆 Highlights
-
-- Built and deployed **full-stack applications** with real-world users and public endpoints.  
-- Designed scalable **RESTful APIs**, **database schemas**, and **geo-search systems** using Elasticsearch.  
-- Experienced in **cloud deployment pipelines**, **authentication**, and **production debugging**.
-
----
 
 ## 📫 Connect with Me
 
