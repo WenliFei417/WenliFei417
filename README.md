@@ -15,9 +15,6 @@ I’m passionate about backend and cloud development, and I enjoy building real-
 🚀 Check out my portfolio:
 👉 https://wenli-portfolio.vercel.app/
 
-🧭 *Currently open to Summer 2026 Software Engineering Internships.*
-
-
 ---
 
 ## 🧠 Tech Stack
